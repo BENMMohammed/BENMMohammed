@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammed Benmakhlouf Github Stats" src="https://github-readme-stats.vercel.app/api?username=BENMMohammed&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BENMMohammed&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="BENMMohammed" height="192px"/>
+
+<p align="center">
+  <a href="https://github.com/karamyf"><img src="https://komarev.com/ghpvc/?username=karamyf&label=Profile%20views&color=0e75b6&style=flat" alt="karamyf" /></a>
+</p>
